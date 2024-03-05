@@ -165,3 +165,7 @@ cython_debug/
 
 
 /__pycache__
+
+# Imagenes generadas por el sistema exepto assets
+!assets/
+*.png
